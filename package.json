@@ -1,0 +1,7 @@
+{
+  "devDdependencies": {
+    "@angular/material": "^15.2.5",
+    "@angular/common": "15.2.5",
+    "@angular/core": "14.0.3"
+  }
+}

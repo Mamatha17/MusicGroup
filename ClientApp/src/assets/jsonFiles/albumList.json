@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "Title": "Solo",
+    "Year": 1974,
+    "Genre": "Comedy|Drama",
+    "Description": "Relaxing Music for entertainment",
+    "Action": ""
+  },
+  {
+    "Id": 2,
+    "Title": "Hill, The",
+    "Year": 1969,
+    "Genre": "Drama|War",
+    "Description": "Relaxing Music for entertainment",
+    "Action": ""
+  },
+  {
+    "Id": 3,
+    "Title": "Level Five",
+    "Year": 2005,
+    "Genre": "Documentary|Romance|War",
+    "Description": "Music for entertainment",
+    "Action": ""
+  },
+  {
+    "Id": 4,
+    "Title": "Overlord",
+    "Year": 1995,
+    "Genre": "Drama|War",
+    "Description": "Relaxing Music for entertainment",
+    "Action": ""
+  },
+  {
+    "Id": 5,
+    "Title": "Poolsite",
+    "Year": 1937,
+    "Genre": "Crime|Drama",
+    "Description": "Crime Music for entertainment",
+    "Action": ""
+  },
+  {
+    "Id": 6,
+    "Title": "Taffin",
+    "Year": 1986,
+    "Genre": "Action|Thriller",
+    "Description": null,
+    "Action": ""
+  },
+  {
+    "Id": 7,
+    "Title": "Tales of Manhattan",
+    "Year": 2023,
+    "Genre": "Comedy|Drama",
+    "Description": "Relaxing Music",
+    "Action": ""
+  },
+  {
+    "Id": 8,
+    "Title": "Toolbox Murders",
+    "Year": 1976,
+    "Genre": "Horror|Mystery",
+    "Description": "Entertainment",
+    "Action": ""
+  },
+  {
+    "Id": 9,
+    "Title": "Trojan War",
+    "Year": 1988,
+    "Genre": "Comedy",
+    "Description": "Comedy Music for entertainment",
+    "Action": ""
+  },
+  {
+    "Id": 10,
+    "Title": "Union: The Business Behind Getting High, The",
+    "Year": 2007,
+    "Genre": "Comedy|Documentary",
+    "Description": "Comedy  Music for entertainment",
+    "Action": ""
+  }
+]
